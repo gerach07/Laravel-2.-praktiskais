@@ -61,12 +61,4 @@ Demo lietotājs: **demo@example.com** / **password**
 
 Datubāzes atiestatīšana: `php artisan migrate:fresh --seed`
 
-## Git (1 punkts)
-
-```bash
-cd biblioteka
-git init
-git add .
-git commit -m "Pirmais commit"
-```
 
