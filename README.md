@@ -70,14 +70,3 @@ git add .
 git commit -m "Pirmais commit"
 ```
 
-Ja strādā divatā - katram jāveido savi commit (izveido repo GitHub, otrs dara `git clone`, `git pull`, `git push`).
-
-## Iesniegšana Moodle
-
-Iesniedz projekta mapi bez smagajām mapēm:
-
-```bash
-zip -r biblioteka.zip biblioteka -x "biblioteka/vendor/*" "biblioteka/node_modules/*"
-```
-
-Pievieno arī prezentāciju.
